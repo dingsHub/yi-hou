@@ -7,6 +7,8 @@
       <line-chart :chart-data="lineChartData" />
     </el-row>
 
+
+
     <el-row :gutter="32">
       <el-col :xs="24" :sm="24" :lg="8">
         <div class="chart-wrapper">
